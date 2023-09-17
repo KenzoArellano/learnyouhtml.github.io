@@ -1,0 +1,13 @@
+{
+  "name": "Arellano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "learnyouhtml": "learnyouhtml",
+    "verify": "learnyouhtml verify index.html",
+    "run":"learnyouhtml run index.html"
+  }
+}
+
+  
